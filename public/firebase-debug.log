@@ -3,7 +3,7 @@
 [debug] CLI Version:  3.6.1
 [debug] Platform:     darwin
 [debug] Node Version: v4.4.0
-[debug] Time:         Fri Apr 21 2017 11:43:32 GMT-0700 (PDT)
+[debug] Time:         Fri Apr 21 2017 14:51:26 GMT-0700 (PDT)
 [debug] ----------------------------------------------------------------------
 [debug] 
 [debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
@@ -13,22 +13,22 @@
   client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
   grant_type: 'refresh_token',
   scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
- Fri Apr 21 2017 11:43:32 GMT-0700 (PDT)
+ Fri Apr 21 2017 14:51:26 GMT-0700 (PDT)
 [debug] <<< HTTP RESPONSE 200
 [debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/note-app-ee093  
- Fri Apr 21 2017 11:43:33 GMT-0700 (PDT)
+ Fri Apr 21 2017 14:51:26 GMT-0700 (PDT)
 [debug] <<< HTTP RESPONSE 200
 [debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/note-app-ee093/tokens  
- Fri Apr 21 2017 11:43:33 GMT-0700 (PDT)
+ Fri Apr 21 2017 14:51:27 GMT-0700 (PDT)
 [debug] <<< HTTP RESPONSE 200
 [info] Starting Firebase development server...
 [info] 
 [info] Project Directory: /Users/Yvonna/Desktop/project
 [debug] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/note-app-ee093  
- Fri Apr 21 2017 11:43:34 GMT-0700 (PDT)
+ Fri Apr 21 2017 14:51:27 GMT-0700 (PDT)
 [debug] <<< HTTP RESPONSE 200
 [debug] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/948867735123/clients/_:getWebAppConfig  
- Fri Apr 21 2017 11:43:35 GMT-0700 (PDT)
+ Fri Apr 21 2017 14:51:28 GMT-0700 (PDT)
 [debug] <<< HTTP RESPONSE 200
 [info] Public Directory: public
 [info] 

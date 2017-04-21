@@ -28,8 +28,9 @@
       skip-waiting
       clients-claim
       reload-on-install
-      href="sw-import.js">
-      <platinum-sw-cache></platinum-sw-cache>
+      href="../sw-import.js">
+      <platinum-sw-cache default-cache-strategy="networkFirst">
+      </platinum-sw-cache>
     </platinum-sw-register>
 
     <firebase-app
